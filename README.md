@@ -11,3 +11,6 @@ The entire project can be run within Jupyter Notebooks. More details can be foun
 
 ### Instructions
 Follow the instructions within the cells in `Navigation.ipynb`.
+
+### Bibliography
+The material used to complete this project is mostly from [Udacity's Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) with additional reading from [FreeCodeCamp](https://www.freecodecamp.org/news/improvements-in-deep-q-learning-dueling-double-dqn-prioritized-experience-replay-and-fixed-58b130cc5682/)
